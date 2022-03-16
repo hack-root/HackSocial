@@ -13,6 +13,6 @@ Este repositorio es para aquellos que quieren hackear las redes sociales de la g
 
 4- cd HackSocial
 
-5- python HackSocial.py
+5- python Hack_Social.py
 
 Siga los pasos según sus preferencias
