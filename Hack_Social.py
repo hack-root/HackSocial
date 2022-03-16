@@ -50,7 +50,7 @@ def menu():
         print("Contraseña:")
         contra( )
 def contra():
-	length =random.randrange(15)
+	length =random.randrange(8, 15)
 	random.shuffle(characters)
 	password = []
 	for i in range(length):
