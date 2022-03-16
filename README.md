@@ -15,4 +15,9 @@ Este repositorio es para aquellos que quieren hackear las redes sociales de la g
 
 5- python Hack_Social.py
 
-Siga los pasos según sus preferencias
+6- Elija una opcion
+
+7- Ponga la informacion requerida
+
+8- ponga la opcion "iniciar atque" (5)
+
